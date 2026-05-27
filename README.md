@@ -30,7 +30,8 @@ The project used 4 tables in the dataset:
 - Created a dynamic measure to switch between different metrics using slicers and parameter selection for flexible analysis
 ## II. Dashboard Pages 
 ### 1. Sales summary
-<img width="1155" height="650" alt="Screenshot 2026-05-27 at 03 31 01" src="https://github.com/user-attachments/assets/189c44bd-a6db-460c-b45f-89e3a1c02077" />
+<img width="1153" height="651" alt="Screenshot 2026-05-27 at 22 37 05" src="https://github.com/user-attachments/assets/fec284c3-4777-4bd2-a5bd-60976a813c83" />
+
 
 ### 2. Product performance
 <img width="1152" height="651" alt="Screenshot 2026-05-27 at 03 37 56" src="https://github.com/user-attachments/assets/14f5d54e-82a4-467e-a776-33b7a50e856f" />
